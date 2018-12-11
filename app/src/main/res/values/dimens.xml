@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="twenty4_dp">24dp</dimen>
+    <dimen name="sixty_sp">60sp</dimen>
+    <dimen name="eleven_dp">11dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="eight_dp">8dp</dimen>
+</resources>
